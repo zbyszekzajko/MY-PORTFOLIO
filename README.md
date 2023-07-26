@@ -148,7 +148,7 @@
  </ul>
 <b>[10.2004 - 07.2008 - Białystok University of Technology - Computer Science- engineering  degree studies] </b>
  <p></p>
- <b>[10. 1998  - 06.2003 - Bialystok Secondary Technical School of Electircal Engineering - Electronics Technician</b>
+ <b>[10. 1998  - 06.2003 - Białystok Secondary Technical School of Electircal Engineering - Electronics Technician</b>
  </ul>
     
 ## COURSES AND CERTIFICATIONS
