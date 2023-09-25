@@ -155,7 +155,10 @@
 
 
 ## EXAMPLES OF MY WORK
+<ul>
+  <li><a href="https://github.com/">BUG REPORTS</a>
 
+</ul>
 
 ### You can also find me on Facebook Groups and events:
 
