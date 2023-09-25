@@ -156,7 +156,8 @@
 
 ## EXAMPLES OF MY WORK
 <ul>
-  <li><a href="https://github.com/zbyszekzajko/BUG_RAPORTS">BUG REPORTS</a>
+  <li><a href="https://github.com/zbyszekzajko/BUG_RAPORTS.git">BUG REPORTS</a>
+
 
 </ul>
 
